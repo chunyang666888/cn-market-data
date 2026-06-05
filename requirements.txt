@@ -1,0 +1,4 @@
+# Core: standard library only (works fully offline with the bundled sample).
+# Optional: uncomment to enable live akshare data fetching.
+# akshare>=1.11
+pytest>=7.0
